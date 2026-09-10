@@ -28,7 +28,6 @@ new project html sport site
         header h1 {
             font-size: 25px;
         }
-
         nav a {
             color: white;
             text-decoration: none;
