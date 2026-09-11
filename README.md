@@ -20,7 +20,7 @@ new project html sport site
         header {
             background: #111;
             color: white;
-            padding: 20px 8%;
+            padding: 22px 8%;
             display: flex;
             justify-content: space-between;
             align-items: center;
