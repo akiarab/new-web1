@@ -33,13 +33,10 @@ new project html sport site
             text-decoration: none;
             margin-right: 20px;
         }
-
         nav a:hover {
             color: #00c853;
         }
-
         /* بخش اصلی */
-
         .hero {
             text-align: center;
             padding: 80px 20px;
