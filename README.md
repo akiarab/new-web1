@@ -43,16 +43,13 @@ new project html sport site
             background: linear-gradient(135deg, #00c853, #64dd17);
             color: white;
         }
-
         .hero h2 {
             font-size: 40px;
             margin-bottom: 15px;
         }
-
         .hero p {
             font-size: 18px;
         }
-
         .hero button {
             margin-top: 25px;
             padding: 12px 30px;
