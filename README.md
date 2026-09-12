@@ -83,7 +83,6 @@ new project html sport site
             box-shadow: 0 5px 15px rgba(0,0,0,0.1);
             transition: 0.3s;
         }
-
         .product:hover {
             transform: translateY(-10px);
         }
