@@ -64,7 +64,6 @@ new project html sport site
             max-width: 1100px;
             margin: 50px auto;
         }
-
         .products h2 {
             text-align: center;
             margin-bottom: 30px;
