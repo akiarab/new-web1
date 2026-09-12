@@ -74,7 +74,6 @@ new project html sport site
             gap: 25px;
             flex-wrap: wrap;
         }
-
         .product {
             width: 280px;
             background: white;
