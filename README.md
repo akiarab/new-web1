@@ -58,9 +58,7 @@ new project html sport site
             cursor: pointer;
             font-size: 16px;
         }
-
         /* محصولات */
-
         .products {
             width: 90%;
             max-width: 1100px;
