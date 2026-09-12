@@ -86,7 +86,6 @@ new project html sport site
         .product:hover {
             transform: translateY(-10px);
         }
-
         .product .image {
             height: 170px;
             background: #eee;
