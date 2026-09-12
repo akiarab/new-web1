@@ -68,7 +68,6 @@ new project html sport site
             text-align: center;
             margin-bottom: 30px;
         }
-
         .product-container {
             display: flex;
             justify-content: center;
