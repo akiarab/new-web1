@@ -113,7 +113,6 @@ new project html sport site
             border-radius: 20px;
             cursor: pointer;
         }
-
         .buy:hover {
             background: #00c853;
         }
