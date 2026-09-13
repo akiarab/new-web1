@@ -116,9 +116,7 @@ new project html sport site
         .buy:hover {
             background: #00c853;
         }
-
         /* فوتر */
-
         footer {
             background: #111;
             color: white;
