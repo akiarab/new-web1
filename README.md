@@ -105,7 +105,6 @@ new project html sport site
             font-weight: bold;
             margin: 15px;
         }
-
         .buy {
             background: #111;
             color: white;
