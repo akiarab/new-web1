@@ -96,11 +96,9 @@ new project html sport site
             font-size: 60px;
             margin-bottom: 15px;
         }
-
         .product h3 {
             margin-bottom: 10px;
         }
-
         .price {
             color: #00a844;
             font-size: 20px;
