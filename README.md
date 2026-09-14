@@ -62,7 +62,7 @@ new project html sport site
         .products {
             width: 90%;
             max-width: 1100px;
-            margin: 50px auto;
+            margin: 54px auto;
         }
         .products h2 {
             text-align: center;
