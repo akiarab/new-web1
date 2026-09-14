@@ -31,7 +31,7 @@ new project html sport site
         nav a {
             color: white;
             text-decoration: none;
-            margin-right: 20px;
+            margin-right: 22px;
         }
         nav a:hover {
             color: #00c853;
