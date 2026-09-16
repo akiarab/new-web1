@@ -26,7 +26,7 @@ new project html sport site
             align-items: center;
         }
         header h1 {
-            font-size: 27px;
+            font-size: 30px;
         }
         nav a {
             color: white;
