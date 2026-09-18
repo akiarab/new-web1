@@ -26,12 +26,12 @@ new project html sport site
             align-items: center;
         }
         header h1 {
-            font-size: 30px;
+            font-size: 25px;
         }
         nav a {
             color: white;
             text-decoration: none;
-            margin-right: 22px;
+            margin-right: 25px;
         }
         nav a:hover {
             color: #00c853;
@@ -39,7 +39,7 @@ new project html sport site
         /* بخش اصلی */
         .hero {
             text-align: center;
-            padding: 80px 20px;
+            padding: 80px 30px;
             background: linear-gradient(135deg, #00c853, #64dd17);
             color: white;
         }
