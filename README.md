@@ -39,7 +39,7 @@ new project html sport site
         /* بخش اصلی */
         .hero {
             text-align: center;
-            padding: 80px 30px;
+            padding: 85px 35px;
             background: linear-gradient(135deg, #00c853, #64dd17);
             color: white;
         }
