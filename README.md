@@ -26,7 +26,7 @@ new project html sport site
             align-items: center;
         }
         header h1 {
-            font-size: 25px;
+            font-size: 27px;
         }
         nav a {
             color: white;
@@ -56,7 +56,7 @@ new project html sport site
             border: none;
             border-radius: 25px;
             cursor: pointer;
-            font-size: 16px;
+            font-size: 18px;
         }
         /* محصولات */
         .products {
