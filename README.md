@@ -75,9 +75,9 @@ new project html sport site
             flex-wrap: wrap;
         }
         .product {
-            width: 280px;
+            width: 300px;
             background: white;
-            border-radius: 15px;
+            border-radius: 20px;
             padding: 20px;
             text-align: center;
             box-shadow: 0 5px 15px rgba(0,0,0,0.1);
