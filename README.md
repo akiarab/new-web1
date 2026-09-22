@@ -87,7 +87,7 @@ new project html sport site
             transform: translateY(-10px);
         }
         .product .image {
-            height: 175px;
+            height: 170px;
             background: #eee;
             border-radius: 10px;
             display: flex;
