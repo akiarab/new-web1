@@ -124,20 +124,15 @@ new project html sport site
             padding: 25px;
             margin-top: 50px;
         }
-
         /* موبایل */
-
         @media (max-width: 700px) {
-
             header {
                 flex-direction: column;
                 gap: 15px;
             }
-
             .hero h2 {
                 font-size: 30px;
             }
-
             nav a {
                 margin: 5px;
             }
