@@ -141,11 +141,8 @@ new project html sport site
 </head>
 
 <body>
-
     <!-- هدر -->
-
     <header>
-
         <h1>🛍️ فروشگاه من</h1>
 
         <nav>
