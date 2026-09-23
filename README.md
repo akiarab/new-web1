@@ -144,14 +144,12 @@ new project html sport site
     <!-- هدر -->
     <header>
         <h1>🛍️ فروشگاه من</h1>
-
         <nav>
             <a href="#">خانه</a>
             <a href="#">محصولات</a>
             <a href="#">درباره ما</a>
             <a href="#">تماس</a>
         </nav>
-
     </header>
 
 
