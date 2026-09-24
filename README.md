@@ -171,20 +171,16 @@ new project html sport site
                     📱
                 </div>
                 <h3>گوشی هوشمند</h3>
-
                 <p>
                     یک گوشی مدرن و قدرتمند
                 </p>
-
                 <div class="price">
                     25,000,000 تومان
                 </div>
-
                 <button class="buy"
                     onclick="buyProduct('گوشی هوشمند')">
                     خرید
                 </button>
-
             </div>
 
 
