@@ -163,20 +163,13 @@ new project html sport site
         </button>
     </section>
     <!-- محصولات -->
-
     <section class="products">
-
         <h2>محصولات محبوب</h2>
-
         <div class="product-container">
-
-
             <div class="product">
-
                 <div class="image">
                     📱
                 </div>
-
                 <h3>گوشی هوشمند</h3>
 
                 <p>
