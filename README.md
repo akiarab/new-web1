@@ -152,23 +152,16 @@ new project html sport site
         </nav>
     </header>
 
-
     <!-- بخش معرفی -->
-
-    <section class="hero">
-
+ <section class="hero">
         <h2>به فروشگاه ما خوش آمدید</h2>
-
         <p>
             بهترین محصولات با بهترین قیمت
         </p>
-
         <button onclick="showMessage()">
             مشاهده محصولات
         </button>
-
     </section>
-
 
     <!-- محصولات -->
 
