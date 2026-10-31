@@ -52,7 +52,7 @@ new project html sport site
         }
         .hero button {
             margin-top: 25px;
-            padding: 12px 30px;
+            padding: 14px 30px;
             border: none;
             border-radius: 25px;
             cursor: pointer;
