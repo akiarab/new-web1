@@ -56,7 +56,7 @@ new project html sport site
             border: none;
             border-radius: 25px;
             cursor: pointer;
-            font-size: 18px;
+            font-size: 20px;
         }
         /* محصولات */
         .products {
