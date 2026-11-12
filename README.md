@@ -15,7 +15,7 @@ new project html sport site
         body {
             font-family: Tahoma, sans-serif;
             background: #f5f5f5;
-            color: #333;
+            color: #222;
         }
         header {
             background: #111;
